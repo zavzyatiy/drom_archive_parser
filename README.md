@@ -4,7 +4,7 @@
 
 Данный парсер предназначен для сбора информации по архивным объявлениям, представленным на сайте <a href="https:/auto.drom.ru/archive/" target="_blank"> Дром.ру </a> - крупнейшей в России онлайн-платформе, агрегирующей предложение на вторичном рынке автомобилей, через которую проходит до 60% соответстующего трафика. Собранный датасет:
 
-<a href="https://www.kaggle.com/datasets/assaabramovich/resaled-cars-from-drom-ruarchive-2018-2023/data" target="_blank"> Ссылка на относительно сырые данные, содержащих наблюдения с 2018 по 2023 год</a>. Всего наблюдений: 5.369.803 .
+Всего собранных наблюдений: 5.369.803. Данные содержат объявления с 2018 по 2023 год, кроме указания региона и "макро-региона" данные не предобрабатывались. <a href="https://www.kaggle.com/datasets/assaabramovich/resaled-cars-from-drom-ruarchive-2018-2023/data" target="_blank"> Ссылка на Kaggle</a>, <a href="https://huggingface.co/datasets/zavzyatiy/cars_from_drom.ru_archive_2018-2023" target="_blank"> ссылка на HF</a>. Пояснения к содержанию колонок датасета даны на Kaggle.
 
 ## Общие слова
 
